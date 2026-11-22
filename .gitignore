@@ -1,0 +1,14 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# Common IDE and build output directories
+.vs/
+Debug/
+Release/
+x64/
+x86/
